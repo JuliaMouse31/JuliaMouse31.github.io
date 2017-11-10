@@ -1,0 +1,33 @@
+body{
+.edge p{ 
+    color:#ff0000;
+  }
+#MyTitle1{
+  color:#000000;
+}
+section>p{
+  
+  color:#0000ff;
+}
+#MyTitle3{
+color:#0000ff;
+}
+#MyTitle3 + b{
+  color:#000000;
+}
+#MyTitle3 b{
+  color:#ffff00;
+}
+#MyTitle4{
+  color:#008000;
+}
+*{
+  color:#000000;
+}
+#MyTitle4 a+b{
+  color:#0000ff;
+}
+h1 p+b{
+  color:#000000;
+}
+}
