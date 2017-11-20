@@ -1,0 +1,18 @@
+  th, [id*="td"]{
+  color:lightcoral
+  
+}
+th, [id*="td"], h1, caption{
+  font-style:oblique
+}
+h1{
+  color:blue
+}
+
+caption, [id*="th"]{
+   color:firebrick
+}
+body{
+  background:aquamarine
+}
+  

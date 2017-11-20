@@ -1,11 +1,11 @@
 .edge { 
     color:red;
   }
-  #MyTitle1{
-  color:black;
-}
 section h1{
   color:yellow;
+}
+#MyTitle1{
+  color:black;
 }
 section>p{
   
