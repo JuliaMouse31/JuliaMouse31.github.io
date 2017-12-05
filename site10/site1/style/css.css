@@ -1,0 +1,28 @@
+body{
+    background:lightgrey;
+}	
+.item1{
+  background:deeppink;
+  width:300px;
+  height:200px;
+}
+.item2{
+    background:dodgerblue;
+width:300px;
+  height:200px; 
+  margin-left:300px;
+  margin-top:-200px;
+  position:absolute;
+}
+.item3{
+   background:orange;
+ width:300px;
+  height:200px; 
+  margin-left:600px;
+  margin-top:-200px;
+}
+.item4{
+ background:lime;
+ width:300px;
+  height:200px; 
+}

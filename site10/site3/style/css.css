@@ -1,0 +1,18 @@
+.item1{
+  width:100%;
+  height:85px;
+  background:tomato;
+}
+.item2{
+  width:1782px;
+  height:1000px;
+  background:steelblue;
+}
+.item3{
+  width:200px;
+  height:1085px;
+  background:springgreen;
+  position:absolute;
+  margin-top:-1085px;
+  margin-left:1582px;
+}
